@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0001-two-sum) |
+| [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/apurvakumbhare/Apurva_java/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Hash Table
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/apurvakumbhare/Apurva_java/tree/master/3415-check-if-grid-satisfies-conditions) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
