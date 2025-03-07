@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/apurvakumbhare/Apurva_java/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/apurvakumbhare/Apurva_java/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
