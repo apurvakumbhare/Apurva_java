@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
+| [2386-min-max-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/2386-min-max-game) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/apurvakumbhare/Apurva_java/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Hash Table
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [2386-min-max-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/2386-min-max-game) |
 <!---LeetCode Topics End-->
