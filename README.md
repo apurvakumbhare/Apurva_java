@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/apurvakumbhare/Apurva_java/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/apurvakumbhare/Apurva_java/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0088-merge-sorted-array) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0283-move-zeroes) |
