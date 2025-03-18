@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/apurvakumbhare/Apurva_java/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Divide and Conquer
@@ -148,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
