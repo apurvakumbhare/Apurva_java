@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0119-pascals-triangle-ii) |
 | [0162-find-peak-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
@@ -263,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
