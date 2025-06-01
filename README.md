@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/apurvakumbhare/Apurva_java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
