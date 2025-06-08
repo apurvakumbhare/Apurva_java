@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0234-palindrome-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Divide and Conquer
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0257-binary-tree-paths) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
