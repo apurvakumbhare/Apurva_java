@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apurvakumbhare/Apurva_java/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
