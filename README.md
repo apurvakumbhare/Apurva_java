@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0189-rotate-array) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/apurvakumbhare/Apurva_java/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/apurvakumbhare/Apurva_java/tree/master/0231-power-of-two) |
