@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/apurvakumbhare/Apurva_java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
