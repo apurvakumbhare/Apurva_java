@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 ## Divide and Conquer
 |  |
