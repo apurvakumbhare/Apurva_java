@@ -495,4 +495,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/apurvakumbhare/Apurva_java/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
