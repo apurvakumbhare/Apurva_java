@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
@@ -477,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/apurvakumbhare/Apurva_java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0501-find-mode-in-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
