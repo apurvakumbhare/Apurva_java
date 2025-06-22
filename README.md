@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0307-range-sum-query-mutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0318-maximum-product-of-word-lengths) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/apurvakumbhare/Apurva_java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/apurvakumbhare/Apurva_java/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
