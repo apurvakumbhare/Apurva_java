@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/apurvakumbhare/Apurva_java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
