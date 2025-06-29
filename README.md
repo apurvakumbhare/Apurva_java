@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
 | [1185-find-in-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1185-find-in-mountain-array) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
 ## Math
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 ## Sorting
 |  |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/apurvakumbhare/Apurva_java/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0783-search-in-a-binary-search-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1005-univalued-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
