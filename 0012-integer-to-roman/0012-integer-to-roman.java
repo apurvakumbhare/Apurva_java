@@ -4,12 +4,18 @@ class Solution {
     String[] symbols = {"M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
 
     StringBuilder roman = new StringBuilder();
-    for (int i = 0; i < values.length; i++) {
-        while (num >= values[i]) {
-            roman.append(symbols[i]);
+    int i = 0;
+        while (num >0) {
+            if(num>=values[i]){  
+                roman.append(symbols[i]);
             num -= values[i];
+            }
+            else{
+                i++;
+            }
+          
         }
-    }
+    
 
     return roman.toString();
 }
