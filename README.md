@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/apurvakumbhare/Apurva_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/apurvakumbhare/Apurva_java/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/apurvakumbhare/Apurva_java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
