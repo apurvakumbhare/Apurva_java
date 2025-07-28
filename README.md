@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/apurvakumbhare/Apurva_java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/apurvakumbhare/Apurva_java/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/apurvakumbhare/Apurva_java/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0162-find-peak-element) |
