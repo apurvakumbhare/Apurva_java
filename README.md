@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/apurvakumbhare/Apurva_java/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/apurvakumbhare/Apurva_java/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2386-min-max-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/2386-min-max-game) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Linked List
 |  |
