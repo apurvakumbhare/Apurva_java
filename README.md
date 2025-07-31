@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
+| [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
