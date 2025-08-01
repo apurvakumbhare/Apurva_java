@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/apurvakumbhare/Apurva_java/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/apurvakumbhare/Apurva_java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/apurvakumbhare/Apurva_java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0392-is-subsequence) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/apurvakumbhare/Apurva_java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
