@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/apurvakumbhare/Apurva_java/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/apurvakumbhare/Apurva_java/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/apurvakumbhare/Apurva_java/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/apurvakumbhare/Apurva_java/tree/master/0066-plus-one) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/apurvakumbhare/Apurva_java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0088-merge-sorted-array) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/apurvakumbhare/Apurva_java/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/apurvakumbhare/Apurva_java/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0257-binary-tree-paths) |
