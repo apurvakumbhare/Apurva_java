@@ -621,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Backtracking
 |  |
 | ------- |
