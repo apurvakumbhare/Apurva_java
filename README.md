@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/apurvakumbhare/Apurva_java/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/apurvakumbhare/Apurva_java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0074-search-a-2d-matrix) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0074-search-a-2d-matrix) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/apurvakumbhare/Apurva_java/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apurvakumbhare/Apurva_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
