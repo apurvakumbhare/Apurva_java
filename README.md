@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/apurvakumbhare/Apurva_java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0416-partition-equal-subset-sum) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/apurvakumbhare/Apurva_java/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/apurvakumbhare/Apurva_java/tree/master/0322-coin-change) |
 | [0617-merge-two-binary-trees](https://github.com/apurvakumbhare/Apurva_java/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/apurvakumbhare/Apurva_java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/apurvakumbhare/Apurva_java/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0416-partition-equal-subset-sum) |
