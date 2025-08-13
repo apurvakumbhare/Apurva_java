@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1250-longest-common-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1250-longest-common-subsequence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1904-second-largest-digit-in-a-string) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0518-coin-change-ii) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Backtracking
 |  |
