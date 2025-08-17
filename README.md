@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/apurvakumbhare/Apurva_java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
