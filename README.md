@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/apurvakumbhare/Apurva_java/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/apurvakumbhare/Apurva_java/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/apurvakumbhare/Apurva_java/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/apurvakumbhare/Apurva_java/tree/master/0013-roman-to-integer) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/apurvakumbhare/Apurva_java/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/apurvakumbhare/Apurva_java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/apurvakumbhare/Apurva_java/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/apurvakumbhare/Apurva_java/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0064-minimum-path-sum) |
