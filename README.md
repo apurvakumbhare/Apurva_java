@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0516-longest-palindromic-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0583-delete-operation-for-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/0583-delete-operation-for-two-strings) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/1263-number-of-dice-rolls-with-target-sum) |
