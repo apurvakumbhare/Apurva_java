@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/apurvakumbhare/Apurva_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/apurvakumbhare/Apurva_java/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/apurvakumbhare/Apurva_java/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/apurvakumbhare/Apurva_java/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
