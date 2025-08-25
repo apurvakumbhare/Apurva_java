@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/apurvakumbhare/Apurva_java/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0540-single-element-in-a-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0074-search-a-2d-matrix) |
+| [0498-diagonal-traverse](https://github.com/apurvakumbhare/Apurva_java/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/apurvakumbhare/Apurva_java/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
+| [0498-diagonal-traverse](https://github.com/apurvakumbhare/Apurva_java/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
