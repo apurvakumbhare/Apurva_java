@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2752-sum-multiples](https://github.com/apurvakumbhare/Apurva_java/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/apurvakumbhare/Apurva_java/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/apurvakumbhare/Apurva_java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/apurvakumbhare/Apurva_java/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Greedy
 |  |
 | ------- |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1250-longest-common-subsequence) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Backtracking
 |  |
 | ------- |
@@ -702,12 +705,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/apurvakumbhare/Apurva_java/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1236-n-th-tribonacci-number) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
+| [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Binary Search Tree
 |  |
 | ------- |
