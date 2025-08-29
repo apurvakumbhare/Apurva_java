@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/apurvakumbhare/Apurva_java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/apurvakumbhare/Apurva_java/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0219-contains-duplicate-ii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/apurvakumbhare/Apurva_java/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/apurvakumbhare/Apurva_java/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/apurvakumbhare/Apurva_java/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/apurvakumbhare/Apurva_java/tree/master/0290-word-pattern) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/apurvakumbhare/Apurva_java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0222-count-complete-tree-nodes) |
@@ -771,10 +774,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/apurvakumbhare/Apurva_java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/apurvakumbhare/Apurva_java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
