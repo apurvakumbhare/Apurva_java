@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/apurvakumbhare/Apurva_java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3617-find-the-original-typed-string-i) |
 ## Stack
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0908-middle-of-the-linked-list) |
 | [1168-duplicate-zeros](https://github.com/apurvakumbhare/Apurva_java/tree/master/1168-duplicate-zeros) |
+| [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
