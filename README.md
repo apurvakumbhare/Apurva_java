@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0958-sort-array-by-parity-ii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/apurvakumbhare/Apurva_java/tree/master/1168-duplicate-zeros) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
+| [0958-sort-array-by-parity-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/apurvakumbhare/Apurva_java/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/apurvakumbhare/Apurva_java/tree/master/1168-duplicate-zeros) |
 | [1894-merge-strings-alternately](https://github.com/apurvakumbhare/Apurva_java/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
