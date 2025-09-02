@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0516-longest-palindromic-subsequence) |
+| [0541-reverse-string-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
