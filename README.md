@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/apurvakumbhare/Apurva_java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2630-alternating-digit-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/0258-add-digits) |
+| [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
 ## Enumeration
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
 ## Simulation
 |  |
