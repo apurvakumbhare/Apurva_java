@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/apurvakumbhare/Apurva_java/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/apurvakumbhare/Apurva_java/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3617-find-the-original-typed-string-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3617-find-the-original-typed-string-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Enumeration
 |  |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2386-min-max-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/2386-min-max-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -774,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search Tree
 |  |
 | ------- |
