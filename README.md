@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/apurvakumbhare/Apurva_java/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0540-single-element-in-a-sorted-array) |
+| [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0908-middle-of-the-linked-list) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0409-longest-palindrome) |
+| [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
