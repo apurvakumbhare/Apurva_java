@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 | [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/apurvakumbhare/Apurva_java/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/apurvakumbhare/Apurva_java/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
+| [0830-largest-triangle-area](https://github.com/apurvakumbhare/Apurva_java/tree/master/0830-largest-triangle-area) |
 | [0897-prime-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0897-prime-palindrome) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1236-n-th-tribonacci-number) |
@@ -869,4 +871,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3790-fruits-into-baskets-ii) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/apurvakumbhare/Apurva_java/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
