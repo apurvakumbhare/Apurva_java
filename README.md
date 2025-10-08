@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/apurvakumbhare/Apurva_java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0414-third-maximum-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/apurvakumbhare/Apurva_java/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/apurvakumbhare/Apurva_java/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/0389-find-the-difference) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/apurvakumbhare/Apurva_java/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/apurvakumbhare/Apurva_java/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/apurvakumbhare/Apurva_java/tree/master/0342-power-of-four) |
+| [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/apurvakumbhare/Apurva_java/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/apurvakumbhare/Apurva_java/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0507-perfect-number) |
@@ -596,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/apurvakumbhare/Apurva_java/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0307-range-sum-query-mutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -914,4 +918,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
