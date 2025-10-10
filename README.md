@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apurvakumbhare/Apurva_java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/apurvakumbhare/Apurva_java/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
@@ -851,6 +852,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apurvakumbhare/Apurva_java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
 |  |
 | ------- |
