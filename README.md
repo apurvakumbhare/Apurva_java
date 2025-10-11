@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/apurvakumbhare/Apurva_java/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/apurvakumbhare/Apurva_java/tree/master/2556-convert-the-temperature) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/apurvakumbhare/Apurva_java/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -902,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/apurvakumbhare/Apurva_java/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Sliding Window
 |  |
