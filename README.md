@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
+| [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apurvakumbhare/Apurva_java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/apurvakumbhare/Apurva_java/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/apurvakumbhare/Apurva_java/tree/master/2427-first-letter-to-appear-twice) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/apurvakumbhare/Apurva_java/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
 | [2752-sum-multiples](https://github.com/apurvakumbhare/Apurva_java/tree/master/2752-sum-multiples) |
+| [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/apurvakumbhare/Apurva_java/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2427-first-letter-to-appear-twice](https://github.com/apurvakumbhare/Apurva_java/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/apurvakumbhare/Apurva_java/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/apurvakumbhare/Apurva_java/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2507-number-of-common-factors) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
+| [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
