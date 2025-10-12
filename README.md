@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/2386-min-max-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/apurvakumbhare/Apurva_java/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/apurvakumbhare/Apurva_java/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
