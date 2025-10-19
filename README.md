@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apurvakumbhare/Apurva_java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/apurvakumbhare/Apurva_java/tree/master/2048-build-array-from-permutation) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/apurvakumbhare/Apurva_java/tree/master/1894-merge-strings-alternately) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apurvakumbhare/Apurva_java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1904-second-largest-digit-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/apurvakumbhare/Apurva_java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/apurvakumbhare/Apurva_java/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -896,6 +898,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apurvakumbhare/Apurva_java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apurvakumbhare/Apurva_java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## Monotonic Stack
 |  |
