@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/2169-simple-bank-system) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/apurvakumbhare/Apurva_java/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2386-min-max-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/2386-min-max-game) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/apurvakumbhare/Apurva_java/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/apurvakumbhare/Apurva_java/tree/master/2491-smallest-even-multiple) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/apurvakumbhare/Apurva_java/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/apurvakumbhare/Apurva_java/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/apurvakumbhare/Apurva_java/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/apurvakumbhare/Apurva_java/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/apurvakumbhare/Apurva_java/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/apurvakumbhare/Apurva_java/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
