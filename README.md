@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/apurvakumbhare/Apurva_java/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/apurvakumbhare/Apurva_java/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
 | ------- |
