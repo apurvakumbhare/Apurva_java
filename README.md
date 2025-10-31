@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/apurvakumbhare/Apurva_java/tree/master/0500-keyboard-row) |
+| [0535-encode-and-decode-tinyurl](https://github.com/apurvakumbhare/Apurva_java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/apurvakumbhare/Apurva_java/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/0516-longest-palindromic-subsequence) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/apurvakumbhare/Apurva_java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0541-reverse-string-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0583-delete-operation-for-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/0583-delete-operation-for-two-strings) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/apurvakumbhare/Apurva_java/tree/master/0307-range-sum-query-mutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
+| [0535-encode-and-decode-tinyurl](https://github.com/apurvakumbhare/Apurva_java/tree/master/0535-encode-and-decode-tinyurl) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 | [2169-simple-bank-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/2169-simple-bank-system) |
 ## Queue
@@ -983,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0187-repeated-dna-sequences) |
+| [0535-encode-and-decode-tinyurl](https://github.com/apurvakumbhare/Apurva_java/tree/master/0535-encode-and-decode-tinyurl) |
 ## Ordered Set
 |  |
 | ------- |
