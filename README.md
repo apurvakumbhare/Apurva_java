@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/apurvakumbhare/Apurva_java/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
 | [0830-largest-triangle-area](https://github.com/apurvakumbhare/Apurva_java/tree/master/0830-largest-triangle-area) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/0583-delete-operation-for-two-strings) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/apurvakumbhare/Apurva_java/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-number-of-lines-to-write-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0824-number-of-lines-to-write-string) |
 | [0886-score-of-parentheses](https://github.com/apurvakumbhare/Apurva_java/tree/master/0886-score-of-parentheses) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/apurvakumbhare/Apurva_java/tree/master/0821-shortest-distance-to-a-character) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/0941-sort-array-by-parity) |
