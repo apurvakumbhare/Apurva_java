@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/apurvakumbhare/Apurva_java/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
+| [1925-count-square-sum-triples](https://github.com/apurvakumbhare/Apurva_java/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/apurvakumbhare/Apurva_java/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/apurvakumbhare/Apurva_java/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2507-number-of-common-factors) |
