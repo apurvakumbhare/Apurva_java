@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/apurvakumbhare/Apurva_java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3668-restore-finishing-order](https://github.com/apurvakumbhare/Apurva_java/tree/master/3668-restore-finishing-order) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3778-transform-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/3778-transform-array-by-parity) |
 | [3790-fruits-into-baskets-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3790-fruits-into-baskets-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/apurvakumbhare/Apurva_java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3668-restore-finishing-order](https://github.com/apurvakumbhare/Apurva_java/tree/master/3668-restore-finishing-order) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/apurvakumbhare/Apurva_java/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Math
