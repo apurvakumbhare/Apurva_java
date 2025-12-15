@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/apurvakumbhare/Apurva_java/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/apurvakumbhare/Apurva_java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2169-simple-bank-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/2169-simple-bank-system) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2083-three-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/apurvakumbhare/Apurva_java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/apurvakumbhare/Apurva_java/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/apurvakumbhare/Apurva_java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/apurvakumbhare/Apurva_java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Backtracking
