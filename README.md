@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/apurvakumbhare/Apurva_java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/apurvakumbhare/Apurva_java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/apurvakumbhare/Apurva_java/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/apurvakumbhare/Apurva_java/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/apurvakumbhare/Apurva_java/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1486-xor-operation-in-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/apurvakumbhare/Apurva_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2427-first-letter-to-appear-twice](https://github.com/apurvakumbhare/Apurva_java/tree/master/2427-first-letter-to-appear-twice) |
