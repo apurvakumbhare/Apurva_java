@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/apurvakumbhare/Apurva_java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/apurvakumbhare/Apurva_java/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3668-restore-finishing-order](https://github.com/apurvakumbhare/Apurva_java/tree/master/3668-restore-finishing-order) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3778-transform-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/3778-transform-array-by-parity) |
@@ -979,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/apurvakumbhare/Apurva_java/tree/master/2574-left-and-right-sum-differences) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apurvakumbhare/Apurva_java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/apurvakumbhare/Apurva_java/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1033,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/apurvakumbhare/Apurva_java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/apurvakumbhare/Apurva_java/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Rolling Hash
 |  |
 | ------- |
