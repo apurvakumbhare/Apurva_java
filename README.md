@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/apurvakumbhare/Apurva_java/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
+| [3146-permutation-difference-between-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/3146-permutation-difference-between-two-strings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/apurvakumbhare/Apurva_java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/apurvakumbhare/Apurva_java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2427-first-letter-to-appear-twice](https://github.com/apurvakumbhare/Apurva_java/tree/master/2427-first-letter-to-appear-twice) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3146-permutation-difference-between-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/3146-permutation-difference-between-two-strings) |
 | [3280-convert-date-to-binary](https://github.com/apurvakumbhare/Apurva_java/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/3379-score-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3617-find-the-original-typed-string-i) |
