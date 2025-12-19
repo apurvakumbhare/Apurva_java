@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/apurvakumbhare/Apurva_java/tree/master/1108-defanging-an-ip-address) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1250-longest-common-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-design-parking-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/1603-design-parking-system) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
@@ -713,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/apurvakumbhare/Apurva_java/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
