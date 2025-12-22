@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/apurvakumbhare/Apurva_java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0958-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/apurvakumbhare/Apurva_java/tree/master/1046-last-stone-weight) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/apurvakumbhare/Apurva_java/tree/master/0830-largest-triangle-area) |
 | [0897-prime-palindrome](https://github.com/apurvakumbhare/Apurva_java/tree/master/0897-prime-palindrome) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1236-n-th-tribonacci-number) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 ## Sorting
 |  |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/apurvakumbhare/Apurva_java/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0958-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0658-find-k-closest-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurvakumbhare/Apurva_java/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/apurvakumbhare/Apurva_java/tree/master/1046-last-stone-weight) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/apurvakumbhare/Apurva_java/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -1063,6 +1068,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1099,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/apurvakumbhare/Apurva_java/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 ## Doubly-Linked List
 |  |
 | ------- |
