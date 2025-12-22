@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apurvakumbhare/Apurva_java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/apurvakumbhare/Apurva_java/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/apurvakumbhare/Apurva_java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/apurvakumbhare/Apurva_java/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/apurvakumbhare/Apurva_java/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/apurvakumbhare/Apurva_java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/apurvakumbhare/Apurva_java/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/apurvakumbhare/Apurva_java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Design
