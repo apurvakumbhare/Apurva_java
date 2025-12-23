@@ -395,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0886-score-of-parentheses](https://github.com/apurvakumbhare/Apurva_java/tree/master/0886-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/apurvakumbhare/Apurva_java/tree/master/0901-online-stock-span) |
 | [0933-increasing-order-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/1019-next-greater-node-in-linked-list) |
@@ -761,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/apurvakumbhare/Apurva_java/tree/master/0380-insert-delete-getrandom-o1) |
 | [0535-encode-and-decode-tinyurl](https://github.com/apurvakumbhare/Apurva_java/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurvakumbhare/Apurva_java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/apurvakumbhare/Apurva_java/tree/master/0901-online-stock-span) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 | [1603-design-parking-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/1603-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/2169-simple-bank-system) |
@@ -1039,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/apurvakumbhare/Apurva_java/tree/master/0901-online-stock-span) |
 | [1019-next-greater-node-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Database
@@ -1118,6 +1121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/apurvakumbhare/Apurva_java/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/apurvakumbhare/Apurva_java/tree/master/0901-online-stock-span) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 ## Randomized
 |  |
