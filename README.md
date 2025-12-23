@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
+| [1019-next-greater-node-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/apurvakumbhare/Apurva_java/tree/master/1046-last-stone-weight) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/apurvakumbhare/Apurva_java/tree/master/1168-duplicate-zeros) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-score-of-parentheses](https://github.com/apurvakumbhare/Apurva_java/tree/master/0886-score-of-parentheses) |
 | [0933-increasing-order-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0933-increasing-order-search-tree) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/apurvakumbhare/Apurva_java/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1019-next-greater-node-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -677,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/apurvakumbhare/Apurva_java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/apurvakumbhare/Apurva_java/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -1036,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/apurvakumbhare/Apurva_java/tree/master/1019-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Database
 |  |
