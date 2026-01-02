@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/apurvakumbhare/Apurva_java/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/apurvakumbhare/Apurva_java/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/apurvakumbhare/Apurva_java/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
