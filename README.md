@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/apurvakumbhare/Apurva_java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1585-the-kth-factor-of-n](https://github.com/apurvakumbhare/Apurva_java/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/1635-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/apurvakumbhare/Apurva_java/tree/master/1688-count-of-matches-in-tournament) |
 | [1925-count-square-sum-triples](https://github.com/apurvakumbhare/Apurva_java/tree/master/1925-count-square-sum-triples) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/apurvakumbhare/Apurva_java/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [1603-design-parking-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/1603-design-parking-system) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1688-count-of-matches-in-tournament](https://github.com/apurvakumbhare/Apurva_java/tree/master/1688-count-of-matches-in-tournament) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/apurvakumbhare/Apurva_java/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2137-final-value-of-variable-after-performing-operations) |
