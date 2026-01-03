@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/apurvakumbhare/Apurva_java/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/apurvakumbhare/Apurva_java/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/apurvakumbhare/Apurva_java/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/apurvakumbhare/Apurva_java/tree/master/3830-find-closest-person) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/apurvakumbhare/Apurva_java/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/apurvakumbhare/Apurva_java/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/apurvakumbhare/Apurva_java/tree/master/3708-zigzag-grid-traversal-with-skip) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/apurvakumbhare/Apurva_java/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/4058-compute-alternating-sum) |
