@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/apurvakumbhare/Apurva_java/tree/master/2831-number-of-beautiful-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/apurvakumbhare/Apurva_java/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/apurvakumbhare/Apurva_java/tree/master/3415-check-if-grid-satisfies-conditions) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3201-distribute-candies-among-children-ii) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/apurvakumbhare/Apurva_java/tree/master/3280-convert-date-to-binary) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3373-maximum-prime-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3373-maximum-prime-difference) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/apurvakumbhare/Apurva_java/tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/apurvakumbhare/Apurva_java/tree/master/3432-count-partitions-with-even-sum-difference) |
