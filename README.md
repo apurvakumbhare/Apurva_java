@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/apurvakumbhare/Apurva_java/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/apurvakumbhare/Apurva_java/tree/master/2507-number-of-common-factors) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2556-convert-the-temperature](https://github.com/apurvakumbhare/Apurva_java/tree/master/2556-convert-the-temperature) |
 | [2630-alternating-digit-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/2630-alternating-digit-sum) |
 | [2722-prime-in-diagonal](https://github.com/apurvakumbhare/Apurva_java/tree/master/2722-prime-in-diagonal) |
