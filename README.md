@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/apurvakumbhare/Apurva_java/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/apurvakumbhare/Apurva_java/tree/master/0821-shortest-distance-to-a-character) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/apurvakumbhare/Apurva_java/tree/master/0658-find-k-closest-elements) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0882-peak-index-in-a-mountain-array) |
