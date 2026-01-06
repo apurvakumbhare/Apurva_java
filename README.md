@@ -874,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -898,6 +899,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1005-univalued-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1035-cousins-in-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -944,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -982,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1035-cousins-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/apurvakumbhare/Apurva_java/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
