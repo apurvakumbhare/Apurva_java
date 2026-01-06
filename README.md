@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1185-find-in-mountain-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/apurvakumbhare/Apurva_java/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1389-create-target-array-in-the-given-order](https://github.com/apurvakumbhare/Apurva_java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/apurvakumbhare/Apurva_java/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/apurvakumbhare/Apurva_java/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/apurvakumbhare/Apurva_java/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/apurvakumbhare/Apurva_java/tree/master/0735-asteroid-collision) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
+| [1389-create-target-array-in-the-given-order](https://github.com/apurvakumbhare/Apurva_java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1603-design-parking-system](https://github.com/apurvakumbhare/Apurva_java/tree/master/1603-design-parking-system) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/apurvakumbhare/Apurva_java/tree/master/1688-count-of-matches-in-tournament) |
