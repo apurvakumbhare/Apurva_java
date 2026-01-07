@@ -887,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -961,6 +962,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1001,6 +1003,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
