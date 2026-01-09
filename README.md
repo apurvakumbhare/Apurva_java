@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/apurvakumbhare/Apurva_java/tree/master/1678-goal-parser-interpretation) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/apurvakumbhare/Apurva_java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/apurvakumbhare/Apurva_java/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1859-sorting-the-sentence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1859-sorting-the-sentence) |
 | [1894-merge-strings-alternately](https://github.com/apurvakumbhare/Apurva_java/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/apurvakumbhare/Apurva_java/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1904-second-largest-digit-in-a-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1904-second-largest-digit-in-a-string) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1859-sorting-the-sentence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1859-sorting-the-sentence) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/apurvakumbhare/Apurva_java/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
