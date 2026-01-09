@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/apurvakumbhare/Apurva_java/tree/master/0692-top-k-frequent-words) |
+| [0709-to-lower-case](https://github.com/apurvakumbhare/Apurva_java/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/apurvakumbhare/Apurva_java/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/0812-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/apurvakumbhare/Apurva_java/tree/master/0821-shortest-distance-to-a-character) |
