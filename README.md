@@ -1135,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/apurvakumbhare/Apurva_java/tree/master/0596-classes-with-at-least-5-students) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/apurvakumbhare/Apurva_java/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1393-capital-gainloss](https://github.com/apurvakumbhare/Apurva_java/tree/master/1393-capital-gainloss) |
+| [1587-bank-account-summary-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/1587-bank-account-summary-ii) |
 | [1693-daily-leads-and-partners](https://github.com/apurvakumbhare/Apurva_java/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/apurvakumbhare/Apurva_java/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/apurvakumbhare/Apurva_java/tree/master/1757-recyclable-and-low-fat-products) |
