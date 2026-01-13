@@ -915,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1035-cousins-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1031,6 +1034,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1285-balance-a-binary-search-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
