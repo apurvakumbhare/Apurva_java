@@ -919,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/apurvakumbhare/Apurva_java/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-deepest-leaves-sum](https://github.com/apurvakumbhare/Apurva_java/tree/master/1302-deepest-leaves-sum) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/apurvakumbhare/Apurva_java/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/apurvakumbhare/Apurva_java/tree/master/2236-root-equals-sum-of-children) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
