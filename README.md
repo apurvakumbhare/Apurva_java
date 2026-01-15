@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1185-find-in-mountain-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/apurvakumbhare/Apurva_java/tree/master/1266-minimum-time-visiting-all-points) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/apurvakumbhare/Apurva_java/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1389-create-target-array-in-the-given-order](https://github.com/apurvakumbhare/Apurva_java/tree/master/1389-create-target-array-in-the-given-order) |
 | [1390-four-divisors](https://github.com/apurvakumbhare/Apurva_java/tree/master/1390-four-divisors) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/apurvakumbhare/Apurva_java/tree/master/1018-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1122-relative-sort-array) |
 | [1137-height-checker](https://github.com/apurvakumbhare/Apurva_java/tree/master/1137-height-checker) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1859-sorting-the-sentence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1859-sorting-the-sentence) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/apurvakumbhare/Apurva_java/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/apurvakumbhare/Apurva_java/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/apurvakumbhare/Apurva_java/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/apurvakumbhare/Apurva_java/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/apurvakumbhare/Apurva_java/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -579,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/apurvakumbhare/Apurva_java/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/apurvakumbhare/Apurva_java/tree/master/0861-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/0867-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1476-subrectangle-queries](https://github.com/apurvakumbhare/Apurva_java/tree/master/1476-subrectangle-queries) |
 | [1791-richest-customer-wealth](https://github.com/apurvakumbhare/Apurva_java/tree/master/1791-richest-customer-wealth) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/apurvakumbhare/Apurva_java/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -613,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/apurvakumbhare/Apurva_java/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1185-find-in-mountain-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1185-find-in-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/apurvakumbhare/Apurva_java/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/apurvakumbhare/Apurva_java/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/apurvakumbhare/Apurva_java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/3790-fruits-into-baskets-ii) |
