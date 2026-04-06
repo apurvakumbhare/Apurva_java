@@ -942,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/apurvakumbhare/Apurva_java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/apurvakumbhare/Apurva_java/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/apurvakumbhare/Apurva_java/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/apurvakumbhare/Apurva_java/tree/master/0322-coin-change) |
@@ -1030,6 +1031,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/apurvakumbhare/Apurva_java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/apurvakumbhare/Apurva_java/tree/master/0199-binary-tree-right-side-view) |
+| [0210-course-schedule-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/apurvakumbhare/Apurva_java/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/apurvakumbhare/Apurva_java/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1266,6 +1268,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0210-course-schedule-ii) |
 | [0841-keys-and-rooms](https://github.com/apurvakumbhare/Apurva_java/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/apurvakumbhare/Apurva_java/tree/master/1971-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
