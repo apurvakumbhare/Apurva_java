@@ -1288,4 +1288,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/apurvakumbhare/Apurva_java/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/apurvakumbhare/Apurva_java/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/apurvakumbhare/Apurva_java/tree/master/0802-find-eventual-safe-states) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
