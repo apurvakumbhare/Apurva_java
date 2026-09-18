@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/apurvakumbhare/Apurva_java/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/apurvakumbhare/Apurva_java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1528-shuffle-string) |
 | [1582-design-browser-history](https://github.com/apurvakumbhare/Apurva_java/tree/master/1582-design-browser-history) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/apurvakumbhare/Apurva_java/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/apurvakumbhare/Apurva_java/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/apurvakumbhare/Apurva_java/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1250-longest-common-subsequence](https://github.com/apurvakumbhare/Apurva_java/tree/master/1250-longest-common-subsequence) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/apurvakumbhare/Apurva_java/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1528-shuffle-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1528-shuffle-string) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/apurvakumbhare/Apurva_java/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1678-goal-parser-interpretation](https://github.com/apurvakumbhare/Apurva_java/tree/master/1678-goal-parser-interpretation) |
